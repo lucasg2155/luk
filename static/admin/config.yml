@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: github
+  repo: lucasg2155/luk
+  
 media_folder: static/assets
 public_folder: assets
 collections:
